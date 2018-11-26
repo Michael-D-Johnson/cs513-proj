@@ -1,0 +1,6 @@
+1. Summary of structure and content of data
+2. Designate use case for data cleaning
+3. Clean data using OpenRefine (saving provenance)
+4. Load data into SQLite 
+5. Identify ICs
+6. Create workflow model of data using YesWorkflow
