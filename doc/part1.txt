@@ -4,3 +4,5 @@
 # it some data cleaning goals that can achieve the desired fitness for use. In addition: Are their use 
 # cases for which the dataset is already clean enough? Others for which it well never be good enough? You# can speculate a bit here – but the rest of the project should focus on a “middle of the road” use case
 # that requires a practically feasible amount of data cleaning.
+
+This dataset is from the New York Public Library (menus.nypl.org). It consists of over 45,000 menus and includes information such as the establishment names where each menu came from, the location of the establishment, the names of individual dishes, their prices, and when they were offered. On a quick inspection, there are several common data cleaning problems that are evident. For instance, there are formatting inconsistencies between the names of the establishments and their location names (NEW YORK vs. New York, [NY] or PACIFIC MAIL STEAMSHIP COMPANY vs. PACIFIC MAIL STEAMSHIP CO.).
