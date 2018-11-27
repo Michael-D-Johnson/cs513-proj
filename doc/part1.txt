@@ -1,0 +1,6 @@
+# Overview and initial assessment of the dataset (narrative and supplemental information). You should
+# describe the structure and content of the dataset and quality issues that are apparent from an initial
+# inspection. You should also describe a (hypothetical or real) use case of the dataset and derive from 
+# it some data cleaning goals that can achieve the desired fitness for use. In addition: Are their use 
+# cases for which the dataset is already clean enough? Others for which it well never be good enough? You# can speculate a bit here – but the rest of the project should focus on a “middle of the road” use case
+# that requires a practically feasible amount of data cleaning.
